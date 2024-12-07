@@ -24,7 +24,12 @@ This project is a simple **Java-based application** for managing and analyzing s
 ---
 
 ## Project Structure
-src/ ├── Student.java # Main class for managing student data ├── StudentTest.java # Unit tests for individual methods └── StudentParamTest.java # Parameterized tests for various data sets
+```bash
+src/
+├── Student.java # Main class for managing student data
+├── StudentTest.java # Unit tests for individual methods
+└── StudentParamTest.java # Parameterized tests for various data sets
+```
 
 
 ---
